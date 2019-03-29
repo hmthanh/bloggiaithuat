@@ -1,7 +1,7 @@
 {
   "name": "myapp",
-  "home": "https://hmthanh.github.io/bloggiaithuat/",
   "version": "0.1.0",
+  "homepage": "https://hmthanh.github.io/bloggiaithuat/",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
